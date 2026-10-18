@@ -14,14 +14,14 @@ Open the site on port 3000. Stop the server with Ctrl+C.
 
 ## Resume
 
-The site links to `Marcos-Gutierrez-Resume.pdf` from the introduction and Resume section. Replace that file to update the resume while preserving its links.
+The site links to `Marcos-Gutierrez-Resume.pdf` from the introduction, navigation, and contact section. Replace that file to update the resume while preserving its links.
 
 ## Customize
 
 - Edit `index.html` to update the introduction, biography, project descriptions, and contact link.
-- Project cards are explicitly marked as placeholders until real projects are available.
+- Experience, education, and project summaries are based on the supplied resume.
 - Edit `style.css` for colors, typography, and responsive layouts.
-- Google Fonts are optional; local fallback fonts work offline.
+- The design uses system fonts and works without external font services.
 
 ## Publish
 
