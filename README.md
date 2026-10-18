@@ -12,6 +12,10 @@ python3 -m http.server 3000 --bind 0.0.0.0
 
 Open the site on port 3000. Stop the server with Ctrl+C.
 
+## Resume
+
+The site links to `Marcos-Gutierrez-Resume.pdf` from the introduction and Resume section. Replace that file to update the resume while preserving its links.
+
 ## Customize
 
 - Edit `index.html` to update the introduction, biography, project descriptions, and contact link.
