@@ -19,7 +19,7 @@ The site links to `Marcos-Gutierrez-Resume.pdf` from the introduction, navigatio
 ## Customize
 
 - Edit `index.html` to update the introduction, biography, project descriptions, and contact link.
-- Education and project summaries are based on the supplied resume.
+- Experience, education, and project summaries are based on the supplied resume.
 - Edit `portfolio.css` for colors, typography, and responsive layouts.
 - The design uses system fonts and works without external font services.
 
